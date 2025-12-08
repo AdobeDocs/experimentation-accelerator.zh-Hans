@@ -56,6 +56,6 @@ ht-degree: 2%
 
 * **[!UICONTROL 提升]**：测量给定处理的转化率相对于基线的提升百分比。
 
-* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 贡献]**：可归因于特定试验或处理的量度总体变化比例，可识别产生最大相对影响的计划。

@@ -145,7 +145,7 @@ KPI部分提供关键量度，包括已创建试验的总数以及当前正在�
 
    对于源自&#x200B;**[!DNL Adobe Target]**&#x200B;的试验，建议的更改将加载到&#x200B;**[!DNL Adobe Target]**&#x200B;的试验工作流中。
 
-   ➡️ [请参阅Adobe Target文档以了解详情](https://experienceleague.adobe.com/en/docs/target/using/activities/abtest/test-ab)
+   ➡️ [请参阅Adobe Target文档以了解详情](https://experienceleague.adobe.com/zh-hans/docs/target/using/activities/abtest/test-ab)
 
 1. 在Experiment视图中，可以访问Journey Optimizer Experimentation Accelerator显示的相同AI **[!UICONTROL 试验机会]**。
 
@@ -167,7 +167,7 @@ KPI部分提供关键量度，包括已创建试验的总数以及当前正在�
 
 * **[!UICONTROL 提升]**：测量给定处理的转化率相对于基线的提升百分比。
 
-* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 转化率]**：查看处理后完成所需操作（例如，购买、注册）的用户档案的百分比。
 
