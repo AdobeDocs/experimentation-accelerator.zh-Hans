@@ -16,7 +16,7 @@ ht-degree: 20%
 
 # 访问Journey Optimizer Experimentation Accelerator
 
-在[创建和配置实验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)并将营销活动或历程发送到配置文件后，您可以访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;以深入了解实验的执行情况。
+在[创建和配置实验](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)并将营销活动或历程发送到配置文件后，您可以访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;以深入了解实验的执行情况。
 
 您可以从&#x200B;**[!UICONTROL 试验]**&#x200B;下拉菜单的左侧菜单访问[!UICONTROL Journey Optimizer Experimentation Accelerator]，也可以通过应用程序切换器访问。 请注意，仅具有Target许可证的用户只能通过应用程序切换器访问它。
 
