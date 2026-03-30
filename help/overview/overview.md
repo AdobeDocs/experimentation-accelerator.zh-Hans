@@ -9,7 +9,7 @@ level: Beginner
 keywords: 内容、试验、多版本、受众、处理方式
 source-git-commit: 83cc6dccc20323efc96a09ee1bfda0aa38e52009
 workflow-type: ht
-source-wordcount: '205'
+source-wordcount: '211'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 100%
 >
 >**Journey Optimizer Experimentation Accelerator** 需要付费授权，可与 Adobe Target 和 Adobe Journey Optimizer 无缝集成。
 
-**Journey Optimizer Experimentation Accelerator** 是一款旨在优化并提升试验流程的强大工具。通过与 Adobe Target 和 Adobe Journey Optimizer 集成，它为试验的管理、分析和优化提供了一个集中化平台。借助 AI 驱动的洞察与自适应测试，Journey Optimizer Experimentation Accelerator 帮助您做出数据驱动的决策，优化营销策略，并推动可量化的成果。
+**Journey Optimizer Experimentation Accelerator** 是一款旨在优化并提升试验流程的强大工具。 通过与 Adobe Target 和 Adobe Journey Optimizer 集成，它为试验的管理、分析和优化提供了一个集中化平台。 借助 AI 驱动的洞察与自适应测试，Journey Optimizer Experimentation Accelerator 帮助您做出数据驱动的决策，优化营销策略，并推动可量化的成果。
 
 主要优势包括：
 
