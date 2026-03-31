@@ -2,23 +2,23 @@
 solution: Journey Optimizer
 product: journey optimizer
 title: Journey Optimizer Experimentation Accelerator
-description: 提高有效开展试验并产生见解的能力
+description: 提升您高效开展试验并生成洞察的能力
 topic: Content Management
 role: User
 level: Beginner
-keywords: 内容，实验，多个，受众，处理
-source-git-commit: b85ae521647894c7dcc77f8f192d9bea650a07dc
+keywords: 内容、试验、多版本、受众、处理方式
+source-git-commit: 4f30411591ab3bec4b749cfb58f437ddb3474ffa
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 20%
+source-wordcount: '507'
+ht-degree: 18%
 
 ---
 
-# 访问Journey Optimizer Experimentation Accelerator
+# 访问 Journey Optimizer Experimentation Accelerator
 
-在[创建和配置实验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)并将营销活动或历程发送到配置文件后，您可以访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;以深入了解实验的执行情况。
+在[创建和配置实验](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)并将营销活动或历程发送到配置文件后，您可以访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;以深入了解实验的执行情况。
 
-您可以从&#x200B;**[!UICONTROL 试验]**&#x200B;下拉菜单的左侧菜单访问[!UICONTROL Journey Optimizer Experimentation Accelerator]，也可以通过应用程序切换器访问。 请注意，仅具有Target许可证的用户只能通过应用程序切换器访问它。
+您可以从[!UICONTROL 试验]下拉菜单的左侧菜单访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**，也可以通过应用程序切换器访问。 请注意，仅具有Target许可证的用户只能通过应用程序切换器访问它。
 
 ![](assets/access.png)
 
@@ -35,7 +35,7 @@ ht-degree: 20%
 * **[!UICONTROL 查看试验]**
 * **[!UICONTROL 管理试验元数据]**
 
-+++ 了解如何分配试验相关权限
++++ 了解如何使用Adobe Experience Platform或Adobe历程优化器许可证分配与试验相关的权限
 
 1. 在&#x200B;**[!DNL Permissions]**&#x200B;产品中，转到&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡并选择所需的&#x200B;**[!UICONTROL 角色]**。
 
@@ -58,6 +58,48 @@ ht-degree: 20%
    如果之前未创建用户，请参阅[此文档](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/access-control/abac/permissions-ui/users)。
 
 用户将收到一封电子邮件，其中包含访问实例的说明。
+
++++
+
+</br>
+
++++ 了解如何使用Adobe Target许可证分配与试验相关的权限
+
+1. 打开&#x200B;**[Admin Console](http://adminconsole.adobe.com/)**。
+
+1. 在&#x200B;**[!UICONTROL 产品]**&#x200B;中，选择&#x200B;**[!UICONTROL Adobe Experience Platform]**。
+
+1. 单击&#x200B;**[!UICONTROL 新建配置文件]**。
+
+   ![](assets/permission-target.png)
+
+1. 输入配置文件的&#x200B;**[!UICONTROL 名称]**&#x200B;和&#x200B;**[!UICONTROL 描述]**，然后单击&#x200B;**[!UICONTROL 保存]**。
+
+1. 打开新创建的&#x200B;**[!UICONTROL 配置文件]**，然后导航到&#x200B;**[!UICONTROL 权限]**&#x200B;选项卡。
+
+1. 单击&#x200B;**[!UICONTROL experimentation-accelerator]**&#x200B;权限旁边的![](assets/do-not-localize/Smock_Edit_18_N.svg)。
+
+   ![](assets/permission-target-1.png)
+
+1. 添加此配置文件应具有的权限，如&#x200B;**[!UICONTROL 查看试验]**&#x200B;和&#x200B;**[!UICONTROL 管理试验元数据]**，然后单击&#x200B;**[!UICONTROL 保存]**。
+
+   >[!TIP]
+   >
+   > 当用户需要不同的访问级别时，创建单独的配置文件。 例如，创建一个仅包含&#x200B;**[!UICONTROL 查看试验]**&#x200B;的&#x200B;**[!UICONTROL Experimentation Accelerator Viewer]**&#x200B;配置文件，以及一个&#x200B;**[!UICONTROL Experimentation Accelerator Editor]**&#x200B;配置文件，其中同时包含&#x200B;**[!UICONTROL 查看试验]**&#x200B;和&#x200B;**[!UICONTROL 管理试验元数据]**。
+
+   ![](assets/permission-target-2.png)
+
+1. 从&#x200B;**[!UICONTROL 权限]**&#x200B;选项卡中，选择&#x200B;**[!UICONTROL 沙盒]**。
+
+1. 添加用户应能够使用Journey Optimizer Experimentation Accelerator的沙盒，然后单击&#x200B;**[!UICONTROL 保存]**。
+
+1. 打开&#x200B;**[!UICONTROL 用户]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL 添加用户]**。
+
+   ![](assets/permission-target-3.png)
+
+1. 添加应接收此访问权限的用户，然后单击&#x200B;**[!UICONTROL 保存]**。
+
+添加到此配置文件的用户现在可以从应用程序切换器访问Journey Optimizer Experimentation Accelerator。
 
 +++
 
