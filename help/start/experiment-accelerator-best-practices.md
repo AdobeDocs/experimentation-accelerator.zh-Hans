@@ -1,20 +1,20 @@
 ---
 solution: Journey Optimizer
 product: journey optimizer
-title: Journey Optimizer Experimentation Accelerator最佳实践
-description: 提高有效开展试验并产生见解的能力
+title: Journey Optimizer Experimentation Accelerator 最佳做法
+description: 提升您高效开展试验并生成洞察的能力
 topic: Content Management
 role: User
 level: Beginner
-keywords: 内容，实验，多个，受众，处理
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+keywords: 内容、试验、多版本、受众、处理方式
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
-source-wordcount: '742'
-ht-degree: 2%
+source-wordcount: '743'
+ht-degree: 6%
 
 ---
 
-# Journey Optimizer Experimentation Accelerator最佳实践 {#content-experiment-best-practices}
+# Journey Optimizer Experimentation Accelerator 最佳做法 {#content-experiment-best-practices}
 
 ## 什么是A/B测试？
 
@@ -77,7 +77,7 @@ A/B测试是比较两个或更多版本的东西以确定哪个版本比定义�
 | 参与率 | 用户与体验的交互级别 | 适合衡量兴趣或关注 |
 | 跳出率 | 快速离开而不执行操作的用户的百分比 | 可能表示不合适或混淆体验 |
 | 页面逗留时间 | 用户在体验的特定部分上花费的时间 | 可以反映兴趣深度或复杂性 |
-| 每位访客带来的收入(RPV) | 每个用户获得的平均收入 | 通常用于以商业为中心的实验 |
+| 每位访客带来的收入 (RPV) | 每个用户获得的平均收入 | 通常用于以商业为中心的实验 |
 | 保留率 | 随着时间的推移返回或保持参与的用户百分比 | 对长期价值评估很有用 |
 
 ## 怎样做一个好的实验？
@@ -85,11 +85,11 @@ A/B测试是比较两个或更多版本的东西以确定哪个版本比定义�
 一个好的实验不只产生一个胜利，它产生一个明确、可操作的学习。
 以下是要查找的内容：
 
-&amp;amp；check； **统计置信度**：变量之间的差异不太可能是偶然造成的。
-&amp;amp；check； **与目标的对齐方式**：主要量度反映了向业务目标迈进的有意义的进展。
-&amp;amp；check； **次要影响**：对相关量度没有显着的负面影响。
-&amp;amp；check； **可扩展性**：结果可以为将来的决策提供信息或推广到其他领域。
-&amp;amp；check； **Clarity**：结果的原因被合理地隔离和理解。
+&amp;check； **统计置信度**：变量之间的差异不太可能是偶然造成的。
+&amp;check； **与目标保持一致**：主要量度反映了向业务目标迈进的有意义的进展。
+检查(&amp;C)； **次要影响**：对相关指标没有明显的负面影响。
+&amp;check； **可扩展性**：结果可以为将来的决策提供信息或推广到其他领域。
+&amp;check； **Clarity**：结果的原因被合理地隔离和理解。
 
 试验不仅仅是寻找“最佳”版本，它还包括通过测试和迭代来构建知识。 如果一切顺利，实验将揭示推动更明智决策、更佳用户体验和改进结果的洞察力。
 

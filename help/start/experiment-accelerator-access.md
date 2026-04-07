@@ -7,7 +7,7 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: 内容、试验、多版本、受众、处理方式
-source-git-commit: 4f30411591ab3bec4b749cfb58f437ddb3474ffa
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 18%
@@ -16,7 +16,7 @@ ht-degree: 18%
 
 # 访问 Journey Optimizer Experimentation Accelerator
 
-在[创建和配置实验](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)并将营销活动或历程发送到配置文件后，您可以访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;以深入了解实验的执行情况。
+在[创建和配置实验](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)并将营销活动或历程发送到配置文件后，您可以访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;以深入了解实验的执行情况。
 
 您可以从[!UICONTROL 试验]下拉菜单的左侧菜单访问&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**，也可以通过应用程序切换器访问。 请注意，仅具有Target许可证的用户只能通过应用程序切换器访问它。
 
@@ -104,11 +104,13 @@ ht-degree: 18%
 +++
 
 
-<!--table style="table-layout:fixed"><tr style="border: 0;">
+<!--
+table style="table-layout:fixed"><tr style="border: 0;">
 <td><img alt="Overview" href="experiment-accelerator-overview.md" src="assets/do-not-localize/experiments-2.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-overview.md">Overview</a></strong></p></div></td>
 <td><img alt="Experiments" href="experiment-accelerator-monitor.md" src="assets/do-not-localize/experiment-overview.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-monitor.md">Experiments</a></strong></p></div></td>
 <td><img alt="Metrics" href="experiment-accelerator-metrics.md" src="assets/do-not-localize/experiment-metrics.png">
 <div align="center"><p><strong><a href="experiment-accelerator-metrics.md">Metrics</a></strong></p></div></td>
-</tr></table-->
+</tr></table
+-->
