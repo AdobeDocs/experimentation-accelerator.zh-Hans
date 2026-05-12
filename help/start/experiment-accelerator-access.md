@@ -7,10 +7,29 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: 内容、试验、多版本、受众、处理方式
-source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
+TQID: https://experienceleague.adobe.com/nCmogRT9JCTYK7VjfO-MNjz8lnDkRsaeCiZL4bIy0RQ
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: b3538224-471e-4c63-a444-9b19d89ae29c
+  - id: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+subfeature_v2:
+  - id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
 workflow-type: tm+mt
-source-wordcount: '507'
-ht-degree: 18%
+source-wordcount: 507
+ht-degree: 20%
 
 ---
 
@@ -55,7 +74,7 @@ ht-degree: 18%
 
 1. 输入用户名、电子邮件地址或从列表中选择，然后单击&#x200B;**[!UICONTROL 保存]**。
 
-   如果之前未创建用户，请参阅[此文档](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/access-control/abac/permissions-ui/users)。
+   如果之前没有创建用户，请参阅[此文档](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/access-control/abac/permissions-ui/users)。
 
 用户将收到一封电子邮件，其中包含访问实例的说明。
 
