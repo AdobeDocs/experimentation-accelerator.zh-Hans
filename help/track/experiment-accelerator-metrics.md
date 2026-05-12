@@ -2,15 +2,22 @@
 solution: Journey Optimizer
 product: journey optimizer
 title: Journey Optimizer Experimentation Accelerator指标
-description: 提高有效开展试验并产生见解的能力
+description: 提升您高效开展试验并生成洞察的能力
 topic: Content Management
 role: User
 level: Beginner
-keywords: 内容，实验，多个，受众，处理
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+keywords: 内容、试验、多版本、受众、处理方式
+TQID: https://experienceleague.adobe.com/OrtdIfQfKMIWODRi9fr-dEuc7g06hISv6-Dq-54qGeY
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04id: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 2%
+source-wordcount: 364
+ht-degree: 6%
 
 ---
 
@@ -56,6 +63,6 @@ ht-degree: 2%
 
 * **[!UICONTROL 提升]**：测量给定处理的转化率相对于基线的提升百分比。
 
-* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 贡献]**：可归因于特定试验或处理的量度总体变化比例，可识别产生最大相对影响的计划。

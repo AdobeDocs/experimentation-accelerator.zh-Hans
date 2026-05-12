@@ -6,11 +6,18 @@ description: 使用Journey Optimizer Experimentation Accelerator的AI中的数�
 topic: Content Management
 role: User
 level: Beginner
-keywords: 内容，实验，多个，受众，处理
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+keywords: 内容、试验、多版本、受众、处理方式
+TQID: https://experienceleague.adobe.com/FaQ5-cPzhnIplEoL1HwVh390jot-EA8G5u6JP8CVneI
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: b3538224-471e-4c63-a444-9b19d89ae29cid: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04id: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 1%
+source-wordcount: 441
+ht-degree: 2%
 
 ---
 
@@ -42,7 +49,7 @@ ht-degree: 1%
 
 ## Adobe模型或AI是否会自动更改品牌的用户体验？
 
-不是。**Journey Optimizer Experimentation Accelerator**&#x200B;只推荐可以更改的内容以及更改方式。 只有有权使用Journey Optimizer或Target更改体验的用户才能按照这些建议执行操作。 在推出之前，可以审核并编辑所有推荐。
+不是。 **Journey Optimizer Experimentation Accelerator**&#x200B;只推荐可以更改的内容以及更改方式。 只有有权使用Journey Optimizer或Target更改体验的用户才能按照这些建议执行操作。 在推出之前，可以审核并编辑所有推荐。
 
 ## 他们的数据或系统稳定性是否存在任何风险？
 

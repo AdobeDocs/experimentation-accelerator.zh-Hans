@@ -2,15 +2,22 @@
 solution: Journey Optimizer
 product: journey optimizer
 title: Journey Optimizer Experimentation Accelerator监视器
-description: 提高有效开展试验并产生见解的能力
+description: 提升您高效开展试验并生成洞察的能力
 topic: Content Management
 role: User
 level: Beginner
-keywords: 内容，实验，多个，受众，处理
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+keywords: 内容、试验、多版本、受众、处理方式
+TQID: https://experienceleague.adobe.com/IYG2Jag2XtctyPaYmQfhdMm0Ac5tEg7EA7gOw7GzUk4
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: b3538224-471e-4c63-a444-9b19d89ae29cid: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04id: d556b755-390a-43f0-be32-a08cf6236126id: d998adac-2f81-400b-a669-d07bb196e4ebid: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 1%
+source-wordcount: 1127
+ht-degree: 3%
 
 ---
 
@@ -145,7 +152,7 @@ KPI部分提供关键量度，包括已创建试验的总数以及当前正在�
 
    对于源自&#x200B;**[!DNL Adobe Target]**&#x200B;的试验，建议的更改将加载到&#x200B;**[!DNL Adobe Target]**&#x200B;的试验工作流中。
 
-   ➡️ [请参阅Adobe Target文档以了解详情](https://experienceleague.adobe.com/zh-hans/docs/target/using/activities/abtest/test-ab)
+   ➡️ [请参阅Adobe Target文档以了解详情](https://experienceleague.adobe.com/en/docs/target/using/activities/abtest/test-ab)
 
 1. 在Experiment视图中，可以访问Journey Optimizer Experimentation Accelerator显示的相同AI **[!UICONTROL 试验机会]**。
 
@@ -167,7 +174,7 @@ KPI部分提供关键量度，包括已创建试验的总数以及当前正在�
 
 * **[!UICONTROL 提升]**：测量给定处理的转化率相对于基线的提升百分比。
 
-* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 置信度]**：表明给定处理与基线处理相同的证据。 [了解详情](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 转化率]**：查看处理后完成所需操作（例如，购买、注册）的用户档案的百分比。
 
