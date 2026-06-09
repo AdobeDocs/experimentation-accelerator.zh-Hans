@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
+source-git-commit: c07dc7f896f9c65980339f4a7fc94123fa8afe71
 workflow-type: tm+mt
-source-wordcount: 1127
-ht-degree: 3%
+source-wordcount: 1367
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 3%
 
 ## 功能板 {#dashboard}
 
-在访问“试验”选项卡时，Journey Optimizer和Adobe Target中所有可用的试验都将列在合并视图中。 这使您能够在一个位置快速查看和比较两个平台中的实验。
+在访问“试验”选项卡时，Journey Optimizer和Adobe Target中所有可用的试验都将列在合并视图中。这使您能够在一个位置快速查看和比较两个平台中的实验。
 “试验”列表包括：
 
 * 在营销活动或历程中创建的Journey Optimizer实验。
@@ -62,6 +62,7 @@ KPI部分提供关键量度，包括已创建试验的总数以及当前正在�
 试验详细信息页面分为以下部分：
 
 * [实验结果](#experiment-outcome)
+* [主要量度](#change-primary-metric)
 * [假设验证](#hypothesis)
 * [详细信息](#details)
 * [机会](#opportunities)
@@ -73,6 +74,42 @@ KPI部分提供关键量度，包括已创建试验的总数以及当前正在�
 ![](assets/experiment-monitor-outcome.png)
 
 **[!UICONTROL 试验结果]**&#x200B;为您提供了试验中入选变量的快速视图。
+
+### 更改主要指标 {#change-primary-metric}
+
+>[!AVAILABILITY]
+>
+>只有具有&#x200B;**[!UICONTROL 管理试验元数据]**&#x200B;权限的用户才能更改主要量度。
+
+更改主要量度适用于使用&#x200B;**[!DNL Customer Journey Analytics]**&#x200B;或&#x200B;**[!DNL Adobe Analytics]**&#x200B;作为在&#x200B;**[!DNL Adobe Target]**&#x200B;或&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;中创建的试验的报告源的团队。
+
+在设置或更改主要指标时，请牢记以下几点：
+
+* 每次导入一个量度。 您的选择将存储为该试验的主要量度。
+
+* 更新仅在Journey Optimizer Experimentation Accelerator中适用。 它们不会回写到Adobe Target或Adobe Journey Optimizer。
+
+* 如果贵组织仅使用Adobe Target作为报表源，则无法在测试发布后更改主要指标。
+
+要更改现有试验的主要量度，请执行以下步骤：
+
+1. 在试验中，如果未分配任何量度，请单击&#x200B;**[!UICONTROL 选择主要量度]**；如果要更改，请单击&#x200B;**[!UICONTROL 编辑]**。
+
+   ![](assets/primary-metric-1.png)
+
+1. 选择与在&#x200B;**[!DNL Adobe Target]**&#x200B;或&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;中创建此试验时设置的报表源匹配的量度。
+
+   您可用的量度由&#x200B;**[!DNL Adobe Target]**&#x200B;或&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;中配置的数据源决定。 例如，如果在Target中选择&#x200B;**[!DNL Customer Journey Analytics]** (CJA)作为报表源，则只有CJA量度可供导入。 您无法切换到其他数据源的量度，也不能将主要量度更改为本机&#x200B;**[!DNL Adobe Target]**&#x200B;量度。
+
+1. 使用搜索功能可按名称查找量度，或使用过滤器查看已在活动实验中使用的量度。
+
+   ![](assets/primary-metric-1.png)
+
+1. 保存您的选择。
+
+当您更改主要指标时，先前生成的见解和机会会被清除并重新生成。 在再生过程中，会显示以下消息：
+
+`Opportunities are being regenerated based on the selected metric. Updates will appear soon.`
 
 ### 设置 {#set-up}
 
